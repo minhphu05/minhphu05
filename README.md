@@ -5,7 +5,7 @@
 **minhphu05/minhphu05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🧑‍🎓 Studied [Data Science](https://tuyensinh.uit.edu.vn/nganh-dao-tao/nganh-khoa-hoc-du-lieu) at **University of Information Technology (UIT)**,VNU - Ho Chi Minh City.
+- 🧑‍🎓 Studied [Data Science](https://fit.uit.edu.vn/) at [**University of Information Technology (UIT)**](https://www.uit.edu.vn/), VNU - Ho Chi Minh City.
 - 🔭 I’m currently working as a Researcher in Natural Language Processing (NLP) at UIT.
 - 🌱 I am studying Data Science, Data Engineering, and Data Analytics.
 - 🤝 Seeking opportunities for an **internship program** in Data Science / Data Engineer / Data Analysis / AI Engineer / MLOps
